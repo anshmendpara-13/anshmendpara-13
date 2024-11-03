@@ -60,7 +60,6 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmendpara-13&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmendpara-13&layout=compact&theme=radical)
 
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mendpara-8bb599236)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/anshmendpara-13)
@@ -73,8 +72,6 @@
 - **Programming with Java (NPTEL Online Certification)** - [Certificate Link](https://drive.google.com/file/d/1zzjGJ9zGA_CXS4MPo2HGgj-hAviYG_vC/view?usp=sharing)
 - **Machine Learning A-Z: AI, Python, R + ChatGPT** - [Certificate Link](https://drive.google.com/file/d/1QCG-u4aIqwY67hLAZeRLT0acTvm9kQYs/view?usp=sharing)
 
----
-
-![snake gif](https://github.com/anshmendpara-13/anshmendpara-13/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/anshmendpara-13/anshmendpara-13/output/github-contribution-grid-snake.gif)
 
 Feel free to edit or add more details to this README!
