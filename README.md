@@ -75,6 +75,6 @@
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anshmendpara-13/anshmendpara-13/blob/output/github-contribution-grid-snake.gif)
 
 Feel free to edit or add more details to this README!
