@@ -74,4 +74,5 @@
 
 ![snake gif](https://raw.githubusercontent.com/anshmendpara-13/anshmendpara-13/output/github-contribution-grid-snake.gif)
 
-Feel free to edit or add more details to this README!
+---
+
