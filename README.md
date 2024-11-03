@@ -74,4 +74,4 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/anshmendpara-13/anshmendpara-13/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anshmendpara-13/anshmendpara-13/blob/output/github-contribution-grid-snake.gif)
