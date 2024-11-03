@@ -60,11 +60,6 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmendpara-13&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmendpara-13&layout=compact&theme=radical)
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Full Stack E-commerce Application](blog-link)
-- [Understanding React’s useState and useEffect](blog-link)
-<!-- BLOG-POST-LIST:END -->
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-mendpara-8bb599236)
@@ -73,10 +68,10 @@
 ---
 
 ### 🔖 Certifications
-- **Next.js 14 & React - The Complete Guide** - [Certificate Link](certificate-link)
-- **Modern React with Redux** - [Certificate Link](certificate-link)
-- **Programming with Java (NPTEL Online Certification)** - [Certificate Link](certificate-link)
-- **Machine Learning A-Z: AI, Python, R + ChatGPT** - [Certificate Link](certificate-link)
+- **Next.js 14 & React - The Complete Guide** - [Certificate Link](https://drive.google.com/file/d/1An6SsRk-2zoRUiQqeTAJsMZAuYrTT-wa/view?usp=sharing)
+- **Modern React with Redux** - [Certificate Link](https://drive.google.com/file/d/1orFHsE2hu6i4Djrz8AZqpP70ydIlEoGp/view?usp=sharing)
+- **Programming with Java (NPTEL Online Certification)** - [Certificate Link](https://drive.google.com/file/d/1zzjGJ9zGA_CXS4MPo2HGgj-hAviYG_vC/view?usp=sharing)
+- **Machine Learning A-Z: AI, Python, R + ChatGPT** - [Certificate Link](https://drive.google.com/file/d/1QCG-u4aIqwY67hLAZeRLT0acTvm9kQYs/view?usp=sharing)
 
 ---
 
