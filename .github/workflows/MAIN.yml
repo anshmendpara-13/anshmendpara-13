@@ -1,7 +1,8 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -10,17 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Step 2: Generate the snake gif and svg
+      - name: Generate Snake Contribution Graph
+        uses: Platane/snk@master
         with:
           github_user_name: anshmendpara-13
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Commit and push the changes to the output branch
-      - name: Commit and Push changes
+      # Step 3: Commit and push the changes to the output branch
+      - name: Commit and Push Changes to output Branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -30,7 +34,8 @@ jobs:
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Update snake contribution graph"
           git push -u origin output
-          
+
+      # Step 4: Deploy to GitHub Pages (optional, for displaying the snake on a website)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
