@@ -72,7 +72,6 @@
 - **Programming with Java (NPTEL Online Certification)** - [Certificate Link](https://drive.google.com/file/d/1zzjGJ9zGA_CXS4MPo2HGgj-hAviYG_vC/view?usp=sharing)
 - **Machine Learning A-Z: AI, Python, R + ChatGPT** - [Certificate Link](https://drive.google.com/file/d/1QCG-u4aIqwY67hLAZeRLT0acTvm9kQYs/view?usp=sharing)
 
-![snake gif](https://raw.githubusercontent.com/anshmendpara-13/anshmendpara-13/output/github-contribution-grid-snake.gif)
-
 ---
 
+![snake gif](https://raw.githubusercontent.com/anshmendpara-13/anshmendpara-13/output/github-contribution-grid-snake.gif)
