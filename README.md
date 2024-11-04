@@ -8,7 +8,7 @@
 - 💬 Ask me about **ReactJs, NextJs, and CP**
 - 📫 How to reach me: anshmendpara2003@gmail.com
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-collage-amber.vercel.app/)
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1a6mxCADhtiu_XRd3KNqndU5ucfPhoCDJ/view?usp=sharing)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1mgTCvGxLTpzNGaqtROoJ-bqe4sK0Qf0j/view?usp=sharing)
 - ⚡ Fun fact: I think I am funny
 
 ---
