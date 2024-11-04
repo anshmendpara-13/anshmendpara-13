@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [AI Tools Generator](https://ai-bot-la.vercel.app/)
 - 🤝 I’m looking for help with [Hill Climb Racing Game](https://github.com/anshmendpara-13/Hill_Climb_Racing_with_ML)
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
-- 💬 Ask me about **React, Vue, and GSAP**
+- 💬 Ask me about **ReactJs, NextJs, and CP**
 - 📫 How to reach me: anshmendpara2003@gmail.com
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-collage-amber.vercel.app/)
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1a6mxCADhtiu_XRd3KNqndU5ucfPhoCDJ/view?usp=sharing)
